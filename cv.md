@@ -9,13 +9,13 @@ Email: Tirioka@rambler.ru
 Skype: Tirioka
 ```
 
-### **Цель:**
->Моя цель стать **JavaScript/Front-end** разработчиком.
-Хочу делать качественные сайты, которые будут интуитивно понятные даже для чайников, не будут глючить, будут быстро работать, будут иметь дружественный интерфейс, чтобы пользователи могли найти нужную ему информацию.
+### **Summary:**
+>My goal is to be a **JavaScript/Front-end** developer.
+I want to make high-quality websites that will be intuitive even for noobs. Webs should work quickly and have a friendly interface so that users can easily find the information they need.
 
-Способна быстро учиться и узнавать новое.
+>I'm able to learn quickly. I'm like learning.
 
-### **Навыки:**
+### **Skills:**
 1. HTML
 2. CSS
 3. JavaScript (beginer)
@@ -23,7 +23,7 @@ Skype: Tirioka
 5. Photoshop
 6. MS PowrPoint, Word, Exel
 
-### **Примеры кода:**
+### **Code examples:**
 * *Reverse String:*
 ```javascript
 function reverseString(str) {
@@ -33,18 +33,20 @@ reverseString("hello");
 ```
 * *[rsschool-cv]*
 
-### **Опыт:**
+### **Experience:**
 * Self HTML Basics
 * Self CSS Basics
 * Self JS Basics
 + Git & Markdown
 
-### **Образование**
-Университет: Брестский государственный университет имени А.С. Пушкина
+### **Education**
+University: Brest State A.S. Pushkin University
 
-Факультет: билогический
+Faculty:: Biology
 
-Специальность: научная биология
+Specialty: Scientific biology
+
+Qualification: Biologist, biology and chemistry teacher
 
 
 
