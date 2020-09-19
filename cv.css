@@ -4,3 +4,113 @@ body {
   font-size: 16px;
   line-height: 1.8em;
 }
+
+header {
+  background: rgb(255,255,255); /* Цвет фона */
+}
+header img {
+    border-radius: 40%; /*настройки аватарки*/
+    max-width: 350px;
+    float: right;
+    margin: 10px 20px 0 0;
+  }
+
+#objective p {
+  text-align: center;
+  width: 500px;
+  font-family: Georgia, Serif;
+  font-style: italic;
+  color: #666;
+}
+
+h1 {
+    margin: 10 0 16px 0;
+    padding: 0 0 16px 0;
+    font-size: 42px;
+    font-weight: bold;
+    letter-spacing: -2px;
+    border-bottom: 1px solid #999;
+  }
+
+h3 {
+  text-transform: uppercase;
+}
+
+h3, h4 {
+  font-weight: bold;
+}
+
+
+.skills .column {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+
+.skills {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  }
+
+
+
+.skills .column ul, ul.job-description {
+    list-style-type: none;
+  }
+
+.skills .column ul > li:before {
+    content: "►";
+    padding-right: 0.5em;
+    color: #f00;
+  }
+
+dt {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 100 px;
+    padding: 0 26px 0 0;
+    width: 200px;
+    float: left;
+    height: 200px;
+    border-right: 1px solid #999;
+  }
+dd {
+    width: 600px;
+}
+.clear {
+    clear: both;
+  }
+
+.school, .job-title {
+    text-transform: capitalize;
+  }
+
+.school span, .job-title span {
+    color: #889499;
+    text-decoration: underline;
+  }
+  @media only screen and (max-width: 768px) {
+    .course {
+      display: block;
+    }
+
+    .course .title, .course .descrition {
+      max-width: 100%;
+    }
+  }
+
+  @media only screen and (max-width: 576px) {
+    .skills {
+      display: block;
+    }
+
+    .skills .column {
+      max-width: 100%;
+    }
+
+    footer {
+      text-align: center;
+    }
+  }
