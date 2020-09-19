@@ -50,8 +50,8 @@ Qualification: Biologist, biology and chemistry teacher
 
 
 
-#### **Английский язык**
-Владею на уровне `A1`
+#### **English**
+Level `A1`
 
 
 [rsschool-cv]: https://github.com/KlimukKA/rsschool-cv
